@@ -155,7 +155,3 @@ guid    label
 2       neutral
 3       negative
 ```
-
----
-
-你可以直接將此 README 文件保存為 `README.md`，並上傳到 GitHub。需要進一步調整或補充，隨時告訴我！
